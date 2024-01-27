@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="401dp"
+        android:layout_height="513dp"
+        android:background="#3B3B3A"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="5dp"
+        tools:layout_editor_absoluteY="109dp" />
+
+    <TextView
+        android:layout_width="357dp"
+        android:layout_height="100dp"
+        android:background="#8FBC8F"
+        android:gravity="center"
+        android:text="3+66-42"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="135dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#CD5C5C"
+        android:gravity="center"
+        android:text="C"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="244dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="1"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="244dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="2"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="244dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="3"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="296dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="4"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="296dp" />
+
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="5"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="354dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="6"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="354dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="7"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="411dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="8"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="411dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="9"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text=")"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="516dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="("
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="95dp"
+        tools:layout_editor_absoluteY="516dp" />
+
+    <TextView
+        android:layout_width="55dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:background="#99958C"
+        android:gravity="center"
+        android:text="0"
+        android:textColor="#C7D0CC"
+        tools:layout_editor_absoluteX="160dp"
+        tools:layout_editor_absoluteY="461dp" />
+
+    />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
